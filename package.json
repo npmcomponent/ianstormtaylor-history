@@ -1,9 +1,16 @@
 {
-  "name": "history",
-  "private": true,
+  "name": "ianstormtaylor-history",
+  "description": "A nicer wrapper around the browser's History API. Push, replace, back, forward, etc.",
   "version": "0.0.2",
-  "dependencies": {
-    "express": "~3.3.4",
-    "hbs": "~2.3.0"
-  }
+  "keywords": [
+    "history",
+    "push",
+    "pushstate",
+    "replace",
+    "replacestate",
+    "back",
+    "forward"
+  ],
+  "dependencies": {},
+  "license": "MIT"
 }
